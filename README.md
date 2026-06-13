@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: kapilsince2007@gmail.com
 
 - ⚡ Fun fact:
---> I like coffee over tea
   
---> Hobbies: Anime, gym, movies.
+   --> I like coffee over tea
+  
+   --> Hobbies: Anime, gym, movies.
