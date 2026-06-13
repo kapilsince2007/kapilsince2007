@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact:
 --> I like coffee over tea.
---> I love watching movies on weekend
+--> Hobbies: Anime, gym, movies.
