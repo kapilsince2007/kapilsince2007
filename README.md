@@ -1,4 +1,5 @@
-## Hi there 👋 I'm Kapil Pokharel  
+💫 About Me:
+Hi there 👋 I’m Kapil Pokharel
 
 
 Here are some ideas to get you started:
@@ -10,7 +11,26 @@ Here are some ideas to get you started:
 - 📫 How to reach me: kapilsince2007@gmail.com
 
 - ⚡ Fun fact:
-  
-   --> I like coffee over tea
-  
-   --> Hobbies: Anime, gym, movies.
+
+--> I like coffee over tea
+
+--> Hobbies: Anime, gym, movies.
+🌐 Socials:
+Discord Instagram [LinkedIn](https://linkedin.com/in/Kapil Pokharel) X
+
+💻 Tech Stack:
+C C# C++ CSS3 HTML5 JavaScript PHP Python TypeScript Go AWS Cloudflare Azure Netlify Vercel Next JS NodeJS Django Figma GitHub Git
+
+📊 GitHub Stats:
+
+
+
+
+
+
+🏆 GitHub Trophies
+
+
+🔝 Top Contributed Repo
+
+
